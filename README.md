@@ -26,6 +26,15 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br></h1>
 
+<div align="center" valign="top"><h1>Design 🎨<br>
+  
+  <img align="center" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
+  <img align="center" src="ttps://aleen42.github.io/badges/src/premiere.svg">
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div><br></h1>
+
 <div align="center"><h1> Meus contatos 📧
   
   <a href="https://www.instagram.com/giovannimitsunari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
