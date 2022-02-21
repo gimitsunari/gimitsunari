@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari</i></a> ✌️</h1>
-  <p align="center"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
+  <h1 align="left">Oi eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari</i></a> ✌️</h1>
+  <p align="left"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
   </a><br>
 </div>
 
@@ -10,7 +10,7 @@
 </h1>
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gimitsunari">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gimitsunari&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
@@ -30,10 +30,9 @@
   
   <img align="center" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" src="https://aleen42.github.io/badges/src/premiere.svg">
   <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
-  <img align="center" src="ttps://aleen42.github.io/badges/src/premiere.svg">
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div><br></h1>
+</div></h1>
 
 <div align="center"><h1> Meus contatos 📧
   
