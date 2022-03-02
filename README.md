@@ -1,5 +1,7 @@
 <div>
-  <h1 align="left">Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari</i></a></h1>
+  <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari
+    <img align="" height="50em" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
+    </i></a></h1>
 
   <p align="left"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
   </a><br>
@@ -11,7 +13,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 
-<div align="center" valign="top"><h1>Linguagens Estudadas 📖<br>
+<div align="center" valign="top"><h1>Linguagens Estudadas <img height="30em" src="https://cdna.artstation.com/p/assets/images/images/025/011/640/original/geunyeong-park-book.gif?1584293328"><br>
   
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
