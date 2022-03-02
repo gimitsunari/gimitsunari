@@ -3,7 +3,7 @@
     <img align="" height="50em" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
     </i></a></h1>
 
-  <p align="left"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
+  <p align="center"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
   </a><br>
 </div>
 
