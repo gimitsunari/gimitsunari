@@ -1,5 +1,6 @@
 <div>
-  <h1 align="left">Oi eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari</i></a> ✌️</h1>
+  <h1 align="left">Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari</i></a></h1>
+
   <p align="left"> ✨ Estudo Analise e Desenvolvimento de Sistemas na Faculdade Descomplica ✨
   </a><br>
 </div>
