@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari
+  <h1 align="center"><img height="90em" src="https://24.media.tumblr.com/8f11ec06cfeb0ddce9cd625c8ad9cf18/tumblr_n3a7e3Rd6k1sxual8o1_500.gif">Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i>Giovanni Mitsunari
     <img align="" height="50em" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
     </i></a></h1>
 
