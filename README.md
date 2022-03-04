@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/gimitsunari">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gimitsunari&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=gimitsunari&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 
@@ -18,7 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="right" height="200" src="https://acegif.com/wp-content/gif/confetti-10.gif">
+  <img align="right" height="300" src="https://acegif.com/wp-content/gif/confetti-10.gif">
   
 </div></h1>
 
