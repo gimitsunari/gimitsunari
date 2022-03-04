@@ -12,7 +12,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 
-<div align="left" valign="top"><h1> Linguagens Estudadas <img height="60em" src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144"><br>
+<div align="center" valign="top"><h1> Linguagens Estudadas <img height="60em" src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144"><br>
   
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +23,7 @@
   
 </div></h1>
 
-<div align="left" valign="top"><h1><img height="40em"src="https://i.pinimg.com/originals/24/b0/c3/24b0c3192e40032284f3aa8a0b23c2e5.png"> Design <img height="40em"src="https://i.pinimg.com/originals/24/b0/c3/24b0c3192e40032284f3aa8a0b23c2e5.png"><br>
+<div align="center" valign="top"><h1> Design <img height="40em"src="https://i.makeagif.com/media/12-19-2019/Z0Kd3f.gif"><br>
   
   <img align="center" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" src="https://aleen42.github.io/badges/src/illustrator.svg">
@@ -31,10 +31,8 @@
   <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
 </div></h1>
 
-<div align="left"><h1><img height="40em" src="https://files.softicons.com/download/game-icons/super-mario-icons-by-sandro-pereira/ico/Mushroom%20-%20Mini.ico">
-  Meus contatos
-  <img height="40em" src="https://files.softicons.com/download/game-icons/super-mario-icons-by-sandro-pereira/ico/Mushroom%20-%20Mini.ico">
-  
+<div align="center"><h1>Meus contatos
+  <img height="40em" src="https://3.bp.blogspot.com/-JBU7JSnvkFQ/WhYrKW8CDhI/AAAAAAAKPE0/VKTr5cs9DRoAxE_kmVRHFpeejAoB3JooACLcBGAs/s1600/AS003339_04.gif"><br>
   <a href="https://www.instagram.com/giovannimitsunari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/giovanni.mitsunari" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
