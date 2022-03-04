@@ -1,10 +1,8 @@
 <div>
   <h1 align="center"> Oi, eu sou o <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/"><i> Giovanni Mitsunari
-    <img align="" height="90em" src="https://data.whicdn.com/images/244793515/original.gif">
+    <img align="" height="100em" src="https://wallpapercave.com/uwp/uwp1125569.gif">
     </i></a></h1>
- <h3 align="center"> <img height="40" src="https://user-images.githubusercontent.com/100142941/156484224-3cfce100-90d1-453e-82b5-10fa3b263e93.png"> 
-    Estudante de Programação 
-                      <img height="40" src="https://user-images.githubusercontent.com/100142941/156484231-64c979d5-88e2-4113-93f2-005b983ff1d6.png"></h3>
+ <h1 align="left"> <img align="center"height="100" src="https://giffiles.alphacoders.com/141/141731.gif">Estudante de Programação </h1>
   </a><br>
 </div>
 
@@ -14,7 +12,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 
-<div align="left" valign="top"><h1> Linguagens Estudadas <img height="60em" src="https://data.whicdn.com/images/244793515/original.gif"><br>
+<div align="left" valign="top"><h1> Linguagens Estudadas <img height="60em" src="https://thumbs.gfycat.com/BaggySpitefulCrocodileskink-max-1mb.gif?w=144"><br>
   
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
