@@ -30,8 +30,7 @@
   <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
 </div></h1>
 
-<div align="left"><h1>Meus contatos
-  <br>
+<div align="left"><h1>Meus contatos <br>
   <a href="https://www.instagram.com/giovannimitsunari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/giovanni.mitsunari" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanni-mitsunari-206ba8174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
