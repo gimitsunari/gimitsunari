@@ -8,8 +8,8 @@
 <div align="center">
   <a href="https://github.com/gimitsunari">
 
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=gimitsunari&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&theme=dracula&hide_border=false&&layout=compact"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimitsunari)](https://github.com/gimitsunari/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari)](https://github.com/gimitsunari/github-readme-stats)
     
   </a>
 
