@@ -5,6 +5,10 @@
   </a><br>
 </div>
 
+[![gimitsunari's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimitsunari)](https://github.com/gimitsunari/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimitsunari&langs_count=8)
+    
+
 <div align="center">
   <a href="https://github.com/gimitsunari">
 
